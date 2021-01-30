@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Repo size-35.8kb-red"/>
 </p>
 
-
 # 1. 实现功能
 + `什么值得买`每日签到
 + 通过 `SERVERCHAN`推送简单的运行结果到微信
@@ -41,6 +40,7 @@
 
 + 2020-10-08  
 first push
+
 
 + 2020-12-12  
 修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
